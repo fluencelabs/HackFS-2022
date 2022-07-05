@@ -30,6 +30,10 @@ The Fluence peer-to-peer compute protocol allows you to create decentralized off
 
 For a quick overview, see our [Hacking On Fluence](https://fluencenetwork.notion.site/Hacking-On-Fluence-Primer-28a87754397048e1bec72e3bfc91fd9b) document as well as the [examples](https://github.com/fluencelabs/examples) repo.
 
+## Rules
+
+See [ETHGlobal Rules](https://www.notion.so/Event-Rules-Code-of-Conduct-792bf3decc2b40d491aceca7caf8e4c6) for details.
+
 ## Resources
 
 Fluence has a variety of components and building blocks available to accelerate your project build.
