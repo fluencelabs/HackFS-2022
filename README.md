@@ -40,6 +40,7 @@ Fluence has a variety of components and building blocks available to accelerate 
 
 ### General
 
+* [Workshop and prizes](https://youtu.be/TMHs0H85n6E)
 * [Fluence Documentation](https://doc.fluence.dev/docs/)
 * [Aqua Book](https://doc.fluence.dev/aqua-book/)
 * [Fluence Quickstart](https://github.com/fluencelabs/examples/tree/main/quickstart)
